@@ -75,10 +75,5 @@ while(opt == 'S'):
         print('\nOpção inválida')
     print('\nDeseja continuar? (S/N)')
     opt = input().upper()
-#binario = d2b(int(number))
-#decimal = b2d(number)
-#hexa = d2h(int(number))
-#decimal = h2d(number)
-#print(decimal)
 
 
