@@ -5,7 +5,6 @@ def singlenumber(numList):# [1,2,3]
     
     s = map(str, numList)   # ['1','2','3']
     s = ''.join(s)          # '123'
-    #s = int(s)              # 123
     return s
 
 def d2b(number):
