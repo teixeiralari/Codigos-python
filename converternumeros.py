@@ -1,8 +1,7 @@
 #Converter numero decimal para binario e vice-versa
 #converter numero decimal para hexadecimal e vice-versa
 
-def singlenumber(numList):# [1,2,3]
-    
+def singlenumber(numList):# [1,2,3] 
     s = map(str, numList)   # ['1','2','3']
     s = ''.join(s)          # '123'
     return s
